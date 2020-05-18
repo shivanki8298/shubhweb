@@ -6,10 +6,10 @@ body {
 h1 {
   margin: 0 auto 0 auto ;
   font-size: 5rem;
-  padding-top: 50px;
+  padding-top: 20px;
   font-family: 'Sacramento', cursive;
   color: #63b7af;
-  /* line-height: ; */
+  line-height: .5;
 }
 
 h2 {
@@ -49,7 +49,7 @@ padding-top:  130px;
   position: absolute;
   padding-bottom:  150px;
   right:200px;
-  top: 50px;
+  top: 60px;
  }
 
 .bottom-cloud {
